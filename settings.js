@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285725047641','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285725047641'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285725047641' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'R' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Creator' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'R' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'https://youtube.com/channel/Radianza'
+global.ig = 'https://instagram.com/radianzaa'
+global.mygc = 'https://chat.whatsapp.com/EsiKfqzZDHd1IoIljH1GFl'
+global.myweb = 'comming soon'
+global.email = 'nothing.pro@yahoo.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© Creator' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'R' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!

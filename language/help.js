@@ -952,15 +952,6 @@ exports.ownermenu = (prefix) => {
 //tqto gsh di hps y :) kalau mai tmbhin aja nama kalian!
 exports.thanksto = () => {
 	return`
-  *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+  *Creator @Radianza*
 `
 }
